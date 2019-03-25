@@ -38,7 +38,7 @@
   * 외관
   * 최신 기술
  
- #### [2019.Mar.14](https://github.com/nali21c/BeBetterProgrammer/tree/master/4_round)
+#### [2019.Mar.14](https://github.com/nali21c/BeBetterProgrammer/tree/master/4_round)
  * 코드베이스의 망령
    * 관례
    * 설계 결정 사항
@@ -67,7 +67,7 @@
    * 나쁜 코드? 나쁜 프로그래머?
  * 오류 무시하지 않기 
  
- #### [2019.Mar.21](https://github.com/nali21c/BeBetterProgrammer/tree/master/7_round)
+#### [2019.Mar.21](https://github.com/nali21c/BeBetterProgrammer/tree/master/7_round)
  * 오류 무시하지 않기 
     * 메커니즘
     * 광기
@@ -79,3 +79,13 @@
  * 버그 사냥하기
     * 경제적 우려
     * 대비책
+    
+#### [2019.Mar.25](https://github.com/nali21c/BeBetterProgrammer/tree/master/8_round)
+ * 버그 사냥하기
+   * 버그 잡기
+     * 함정 파기
+     * 이진 탐색 배우기
+     * 소프트웨어 고고학을 채택하라
+     * 테스트하고 테스트하고 테스트하라
+     * 예리한 도구에 투자하라
+     * 원인 분석 과정에서 제외하기 위해 코드를 제거하라 
