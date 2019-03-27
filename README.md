@@ -95,3 +95,12 @@
    * 버그 잡기 
      * 청결은 감염을 막는다
      * 간접적 전략
+     
+#### [2019.Mar.27](https://github.com/nali21c/BeBetterProgrammer/tree/master/10_round)
+ * 버그 사냥하기
+   * 버그 잡기 
+     * 도망가지 말라
+     * 재현할 수 없는 버그
+ * 테스트하기
+   * 왜 테스트하는가
+     
