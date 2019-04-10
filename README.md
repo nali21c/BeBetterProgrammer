@@ -120,3 +120,10 @@
    * 좋은 테스트
    * 테스트는 어떠해야 하는가   
      * 테스트 이름 
+     
+#### [2019.Apr.10](https://github.com/nali21c/BeBetterProgrammer/tree/master/13_round)
+ * 테스트하기
+   * 테스트 구조
+     * 테스트 유지 보수
+     * 테스트 프레임워크 고르기
+   * 어떤 코드도 혼자가 아니다
