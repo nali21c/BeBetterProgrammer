@@ -127,3 +127,9 @@
      * 테스트 유지 보수
      * 테스트 프레임워크 고르기
    * 어떤 코드도 혼자가 아니다
+   
+#### [2019.Apr.15](https://github.com/nali21c/BeBetterProgrammer/tree/master/14_round)
+ * 복잡도 다루기
+   * 블럽
+   * 케이스 스터디 : 블럽 복잡도 줄이기
+   * 라인
