@@ -153,3 +153,11 @@
      * 기능 위치 선정
      * 일관성
      * 구조 확장
+     
+#### [2019.Apr.23](https://github.com/nali21c/BeBetterProgrammer/tree/master/17_round)
+ * 두 개의 시스템에 대한 이야기
+   * 디자인 타운
+      * 설계 관련 결정 연기하기
+      * 품질 유지
+      * 기술 부채 관리
+     
